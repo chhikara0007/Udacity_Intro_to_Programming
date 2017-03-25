@@ -12,7 +12,7 @@ Project was designed for multiple concurrent tournaments allowed per player.
 
 -<i>Create Tournament</i>: This is for the extra credit and allows for players to be participants in multiple tournaments concurrently.
 
--<i>Count Players</i> and <i>Register Player</i>: Functions that deal with player onboarding and maintenance.  <b><i>I'm running into issues clearing through the tournament test Python script because the Tournament_Test script doesn't have a multiple tournament check and my countplayers() function requires an input that is returned by CreateTournament().  The tournament script isn't wrong, the test just isn't built to accommodate for the difference.</i></b>
+-<i>Count Players</i> and <i>Register Player</i>: Functions that deal with player onboarding and maintenance.
 
 -<i>Players Standings</i>: Function that displays current scoreboard
 
